@@ -4,7 +4,7 @@
   "description": "node wrapper for spotify cli",
   "main": "spot.js",
   "scripts": {
-    "test": "spot"
+    "test": "spot.js"
   },
   "repository": {
     "type": "git",
