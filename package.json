@@ -1,0 +1,28 @@
+{
+  "name": "spot",
+  "version": "1.0.0",
+  "description": "node wrapper for spotify cli",
+  "main": "spot.js",
+  "scripts": {
+    "test": "spot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anfa-am/spot.git"
+  },
+  "keywords": [
+    "spotify",
+    "cli",
+    "wrapper"
+  ],
+  "author": "Anfa Abukar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anfa-am/spot/issues"
+  },
+  "homepage": "https://github.com/Anfa-am/spot#readme",
+  "dependencies": {
+    "sys": "0.0.1",
+    "util": "^0.10.3"
+  }
+}
